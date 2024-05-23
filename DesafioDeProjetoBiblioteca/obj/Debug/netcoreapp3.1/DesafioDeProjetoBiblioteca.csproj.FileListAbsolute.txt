@@ -1,0 +1,9 @@
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\bin\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.deps.json
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\bin\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.dll
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\bin\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.pdb
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.AssemblyInfoInputs.cache
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.AssemblyInfo.cs
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.dll
+C:\Estudos\.NET Developer\curso\DesafioDeProjeto\DesafioDeProjetoBiblioteca\obj\Debug\netcoreapp3.1\DesafioDeProjetoBiblioteca.pdb
