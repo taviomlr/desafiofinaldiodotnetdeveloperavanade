@@ -63,8 +63,21 @@ Outros testes incluem verificações para os métodos **CreateFile**, **ReadFile
 
 <h4>Como Executar O Projeto</h4>
 
-'git clone <URL do Repositório>
-'cd DesafioDeProjeto
+1. Clonar o Repositório
+```
+git clone <URL do Repositório>
+cd DesafioDeProjeto
+```
+2. Restaurar as Dependências e Compilar a Solução
+```
+dotnet restore
+dotnet build
+```
+3. Executar os Testes Unitários
+```
+dotnet test
+```
+Se todos os testes passarem, você verá uma saída indicando que os testes foram executados com sucesso.
 
 <h4>Considerações Finais</h4>
 
