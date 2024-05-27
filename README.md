@@ -63,8 +63,8 @@ Outros testes incluem verificações para os métodos **CreateFile**, **ReadFile
 
 <h4>Como Executar O Projeto</h4>
 
-'git clone <URL do Repositório>
-'cd DesafioDeProjeto
+`git clone <URL do Repositório>
+`cd DesafioDeProjeto
 
 <h4>Considerações Finais</h4>
 
