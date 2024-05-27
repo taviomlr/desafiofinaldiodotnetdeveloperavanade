@@ -61,5 +61,11 @@ Os testes unitários foram desenvolvidos utilizando o framework xUnit para garan
 Outros testes incluem verificações para os métodos **CreateFile**, **ReadFile**, **WriteToFile** e **DeleteFile**, garantindo que cada funcionalidade se comporte corretamente sob diferentes condições.
 
 
-<h4>Considerações Finais<h4>
+<h4>Como Executar O Projeto</h4>
+
+'git clone <URL do Repositório>
+'cd DesafioDeProjeto
+
+<h4>Considerações Finais</h4>
+
 Este projeto fornece uma base sólida para a manipulação de arquivos em aplicações .NET, com uma cobertura de testes abrangente para assegurar a qualidade e a confiabilidade do código. A arquitetura modular e o uso de práticas recomendadas de desenvolvimento tornam este projeto fácil de manter e expandir no futuro.
