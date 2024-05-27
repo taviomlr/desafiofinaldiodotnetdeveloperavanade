@@ -66,7 +66,7 @@ Outros testes incluem verificações para os métodos **CreateFile**, **ReadFile
 1. Clonar o Repositório
 ```
 git clone <URL do Repositório>
-cd DesafioDeProjeto
+cd desafiofinaldiodotnetdeveloperavanade
 ```
 2. Restaurar as Dependências e Compilar a Solução
 ```
